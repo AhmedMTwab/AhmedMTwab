@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm [Ahmed!](https://github.com/AhmedMTwab)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmed-twab)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmed.eltwab@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmedmtwab@gmail.com)
 
 ### Glad to see you here!
 
