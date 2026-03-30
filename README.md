@@ -19,7 +19,7 @@ I'm a **Backend Developer** based in Cairo, Egypt 🇪🇬, currently building i
 - 🛠 &nbsp; I work with **C#, ASP.NET Core, SQL Server, Clean Architecture**
 - 🚀 &nbsp; Currently exploring **Redis, Docker, and CI/CD pipelines**
 - 💬 &nbsp; Ask me about **.NET backend development, Clean Architecture, or API design**
-- 📫 &nbsp; Reach me at: **ahmed.eltwab@gmail.com**
+- 📫 &nbsp; Reach me at: **ahmedmtwab@gmail.com**
 - 👾 &nbsp; Fun fact: N+1 queries are silent killers — always check your EF Core logs
 
 ### My Absolute Favorites:
