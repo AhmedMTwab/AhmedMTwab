@@ -65,12 +65,12 @@ I'm a **Backend Developer** based in Cairo, Egypt 🇪🇬, currently building i
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   <ul>
-    <li><b>OS:</b> Windows 11</li>
-    <li><b>Code Editor:</b> Visual Studio & VS Code</li>
-    <li><b>Browser:</b> Chrome</li>
+    <li><b>OS:</b> Linux Mint</li>
+    <li><b>Code Editor:</b>VS Code & Curser</li>
+    <li><b>Browser:</b> Firefox</li>
     <li><b>API Testing:</b> Postman & Swagger</li>
     <li><b>Version Control:</b> Git & GitHub</li>
-    <li><b>DB Client:</b> SQL Server Management Studio (SSMS)</li>
+    <li><b>DB Client:</b> SQL Server Management Studio (SSMS) </li>
     <li><b>To Stay Updated:</b> Dev.to, Microsoft Blog, and YouTube</li>
   </ul>
 </details>
